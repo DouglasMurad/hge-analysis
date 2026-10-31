@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.asc
+*.opju
+*.xlsx
+Gfactor_Heights_*/
+HGE_V2_*/
+Errors.txt
+HGE_Error_*.txt
+data/
